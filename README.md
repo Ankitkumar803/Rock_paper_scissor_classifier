@@ -6,11 +6,19 @@ Run all the code , at the end you can upload your real images of rock , paper or
 
 ![image](https://user-images.githubusercontent.com/78913240/177055978-8e5bdc2c-ae76-4984-870f-234c1914875c.png)
 
+
 for example , you can upload some images like this , make sure that the background is white.
+
+
 ![image](https://user-images.githubusercontent.com/78913240/177056117-8e9afc50-abd6-4480-a83b-e57077933b68.png)
 
+
 so, we can see it classified the image as [1 ,0 ,0 ] -->  [paper , rock , scissor ] , which corrsponds to Paper.
+
+
 ![image](https://user-images.githubusercontent.com/78913240/177056138-a9b4a934-d7e0-4e07-9000-005de9eb6ed2.png)
+
+
 so , the model classifed the image correctly. 
 
 KUDOS !
