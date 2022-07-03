@@ -1,5 +1,7 @@
 # Rock_paper_scissor_classifier
 
+open the code in collab : <a href="https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/master/C2/W4/ungraded_lab/C2_W4_Lab_1_multi_class_classifier.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 The model we are using to classify rock , paper and scissors is CNN . For tranning i am using images which are generated though CGI.
 
 Run all the code , at the end you can upload your real images of rock , paper or scissors.
